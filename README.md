@@ -33,8 +33,8 @@ https://jrjensen14.github.io/portfolio-react/
 
 ## Usage
 
-![Screenshot of SLP Goalden Login Page](./screenshots/screenshot-2.png)
-![Screenshot of SLP Goalden Student Goals Display](./screenshots/screenshot-1.png)
+![Screenshot of ](./screenshots/screenshot-2.png)
+![Screenshot of ](./screenshots/screenshot-1.png)
 
 [Back to Contents](#table-of-contents)
 
