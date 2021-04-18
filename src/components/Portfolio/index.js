@@ -6,34 +6,28 @@ function Portfolio() {
   // Replace links with deployed projects and GitHub repos
   const [projects] = useState([
     {
-      name: 'surf-report',
+      name: 'critter-tails',
       description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      link: "https://crittertails.herokuapp.com/",
+      repo: "https://github.com/jrjensen14/critter_tails.git"
     },
     {
-      name: 'pastel-puzzels',
+      name: 'blog-site',
       description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      link: "https://thawing-refuge-08157.herokuapp.com",
+      repo: "https://github.com/jrjensen14/blog_site.git"
     },
     {
       name: 'run-buddy',
       description: 'HTML/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      link: "https://lernantino.github.io/run-buddy/",
+      repo: "https://github.com/jrjensen14/run-buddy.git"
     },
     {
-      name: 'led-wall',
+      name: 'SLP-Goalden',
       description: 'Node/IoT',
-      link: "https://github.com",
-      repo: "https://github.com"
-    },
-    {
-      name: 'calculator',
-      description: 'React/JavaScript/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      link: "https://mighty-falls-97052.herokuapp.com/",
+      repo: "https://github.com/jrjensen14/slp-goalden.git"
     },
   ]);
 
